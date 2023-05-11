@@ -415,15 +415,13 @@ transition: color var(--animation), border var(--animation);
 .client-link:focus {
 border: 1px solid #404bbf;
 color: 1px solid #404bbf;
+color:var(--ocean);
 }
 
 .client-icons {
 fill: currentColor; 
 }
-.clinet-icons:hover,
-.clinet-icons:focus{
-    color: var(--ocean);
-}
+
 
 /* ////////////////  PORTFOLIO - HTML  ////////////// */
 
