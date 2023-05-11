@@ -415,7 +415,7 @@ transition: color var(--animation), border var(--animation);
 .client-link:focus {
 border: 1px solid #404bbf;
 color: 1px solid #404bbf;
-color:var(--ocean);
+fill:var(--ocean);
 }
 
 .client-icons {
