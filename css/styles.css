@@ -420,6 +420,10 @@ color: 1px solid #404bbf;
 .client-icons {
 fill: currentColor; 
 }
+.clinet-icons:hover,
+.clinet-icons:focus{
+    color: var(--ocean);
+}
 
 /* ////////////////  PORTFOLIO - HTML  ////////////// */
 
