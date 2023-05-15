@@ -413,8 +413,8 @@ transition: color var(--animation), border var(--animation);
 
 .client-link:hover,
 .client-link:focus {
-    color: var(--pressed-state);
-    border-color: var(--pressed-state);
+    color: var(--ocean);
+    border-color: var(--ocean);
 }
 
 .client-icons {
