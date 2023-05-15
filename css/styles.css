@@ -383,6 +383,7 @@
   
   .portfolio-page {
     padding: 96px 0 120px;
+    display: block;
   }
   
   .portfolio-filter.list {
