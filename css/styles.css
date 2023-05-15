@@ -408,7 +408,6 @@ border-radius: 4px;
 color: #8e8f99;
 transition: color var(--animation), border var(--animation);
 
-
 }
 
 .client-link:hover,
@@ -421,6 +420,8 @@ color: var(--ocean);
 
 .client-icons {
 fill: currentColor; 
+border-color: 1px solid var(--ocean);
+color: var(--ocean);
 }
 
 
