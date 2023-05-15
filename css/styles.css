@@ -458,6 +458,7 @@
     color: var(--customers-icon);
     padding: 16px 32px;
     border: 1px solid #8e8f99;
+    color: #8e8f99;
   }
   
   .customer.link:hover,
