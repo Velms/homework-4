@@ -613,7 +613,7 @@ justify-content: center;
 
 .soc-link:hover,
 .soc-link:focus {
-background-color: var(--ocean);
+background-color: var(--socials);
 }
 
 .socials-link {
