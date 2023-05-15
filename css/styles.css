@@ -398,22 +398,24 @@ gap: 24px;;
 } 
 
 .client-link {
-    display: flex;
-    width: 100%;
-    height: 100%;
-    border: 1px solid var(--subtle-text);
-    border-radius: 4px;
-    align-items: center;
-    justify-content: center;
-    color: var(--customers-icon);
-    padding: 16px 32px;
-}
-.client-link:hover,
-.client-link:focus {
-color: var(--ocean);
-border-color: var(--ocean);
+display: flex;
+align-items: center;
+justify-content: center;
+width: 168px;
+height: 88px;
+border: 1px solid var(--clients-icon-color);
+border-radius: 4px; 
+color: #8e8f99;
+transition: color var(--animation), border var(--animation);
+
+
 }
 
+.client-link:hover,
+.client-link:focus {
+border: 1px solid #404bbf;
+color: 1px solid #404bbf;
+}
 
 .client-icons {
 fill: currentColor; 
