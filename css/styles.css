@@ -503,7 +503,6 @@
   }
   
   .container.footer {
-    margin-right: 120px;
     display: flex;
     align-items: baseline;
     gap: 120px;
