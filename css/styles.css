@@ -480,6 +480,10 @@
     gap: 120px;
   }
   
+  .footer-left{
+    margin-right: 120px;
+  }
+  
   .logo-studio-white {
     color: var(--light);
   }
@@ -503,7 +507,6 @@
   }
   
   .container.footer {
-    margin-right: 120px;
     display: flex;
     align-items: baseline;
     gap: 120px;
