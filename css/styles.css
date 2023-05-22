@@ -496,6 +496,10 @@
     width: 264px;
   }
   
+  .footer-logo-text{
+    margin-right: 120px;
+  }
+  
   .footer-social-text {
     font-weight: 500;
     color: var(--white-text);
